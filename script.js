@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             taskInput.value = ""; 
         } else {
-            alert("Please enter a task");
+            alert("Opps, Please enter a task");
         }
     }
 
